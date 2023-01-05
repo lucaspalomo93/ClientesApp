@@ -1,1 +1,1 @@
-# Clients Applications made in Spring Boot and Angular
+# Application made in Spring Boot and Angular
